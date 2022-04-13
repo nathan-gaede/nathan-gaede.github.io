@@ -1,5 +1,5 @@
-body{background-color:#2F4F4F;
-     color:#DCDCDC}
+body{background-color:#F0F8FF;
+     color:#2F4F4F;margin:10%;}
 
 .header{text-align:center;
         border-bottom:3px solid;border-bottom-style:double}
@@ -11,5 +11,6 @@ body{background-color:#2F4F4F;
 img{width:100px}
 
 .contact{border-bottom:3px solid;text-align:center;border-bottom-style:double}
+
 
 
